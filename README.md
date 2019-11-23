@@ -1,2 +1,3 @@
 # FLASK-API
-### uma API simples em flask
+### Criando um "twitter diferenciado ;)", começando com a API
+
